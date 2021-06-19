@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Manish-Bharath-Kumar/God-Of-Mind/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Endeavour Welfare Society
 
-# Header 1
-## Header 2
-### Header 3
+A website designed for Web Development Internship by Manish Bharath Kumar
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Our Mission
+   Endeavour Educational Welfare Society is established with the sole aim of giving a fair chance to bring out the hidden potential because of its strong belief thatâ€œEvery individual is special in himself, some get the chance to explore and some donot. Our main purpose is to analyze the financial and non-financial limitations that restricts the educational improvement or development of any needy individual and thus support him/her. There are certain reason that restricts the educational improvement of any needy or interested individual, so we took an initiative to identify those restrictions and support them for upliftment of the society.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Our Visison 
+  India is a nation of a billion dreams, a billion aspirants and above all great opportunities. To turn these dreams into reality, especially for the vulnerable sections of society, Endeavour Educational Welfare Society has taken the path of inclusive development to address their educational needs. To work for the educational improvement or development of needy sections of the society. We try to educate those people who are financially weak because everyone has the right to get educated.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Manish-Bharath-Kumar/God-Of-Mind/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## About us
+ This is a non-governmental organization for welfare in the education field. It plays an important role in supporting the most vulnerable children to access their right to education through innovative ideas such as forming student groups and child-tracking systems, holding awareness workshops with parents to ensure that they send children to school. It also provides placement & apprenticeship opportunities to ITI, BTech, and diploma students for their bright future.
 
-### Support or Contact
+## Services We Offer
+Web Development internship at Endeavour Welfare Society through Intershala Internship website. It is a work from home based Internship.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
